@@ -1,7 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=22&pause=1000&color=FFFFFF&height=35&lines=Meu+nome+%C3%A9+Bernardo+Varisco+Fleck%2C+tenho+17+anos+e+sou+do+Rio+Grande+do+Sul)](https://git.io/typing-svg)
-# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=9000&size=18&pause=1000&color=FFFFFF&height=35&lines=Tenho+17+anos+e+sou+do+Rio+Grande+do+Sul)](https://git.io/typing-svg)
-
-
+# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&width=435&lines=Meu+nome+%C3%A9+Bernardo+Varisco+Fleck;Tenho+17+anos;Sou+do+Rio+Grande+do+Sul)](https://git.io/typing-svg)
 👨‍💻 Trabalho atualmente na Brigada Militar de Portão como estagiário.  
 
 🧠 Estou aprendendo JavaScript, Python, HTML, CSS e React Native na Alura.  
@@ -15,8 +12,6 @@
 📫 Como entrar em contato comigo:  
 📧 E-mail: [bvfleck273@gmail.com]  
 📱 WhatsApp: +55 (51) 99707-6102  
-
-😄 Pronomes: Ele/Dele  
 
 ⚡️ Fatos engraçados: Sou gaúcho e apaixonado por tecnologia, mas ainda não decidi se prefiro chimarrão ou café!  
 
