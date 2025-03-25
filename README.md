@@ -15,7 +15,6 @@
 📧 Email: [bvfleck273@gmail.com]  
 📱 WhatsApp: +55 (51) 99707-6102  
 
-⚡️ Fun facts: I'm from Rio Grande do Sul and passionate about technology, but I still haven't decided whether I prefer chimarrão or coffee!  
 
 
 <h3 align="center">
