@@ -1,11 +1,11 @@
 ![header](https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=Hi👋%20My%20name%20is%20Bernardo😁&fontSize=60&section=header)
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=850&size=30&duration=2500&pause=2000&color=FFF&center=true&vCenter=true&width=900&lines=I+have+17+years+old+🚀;Im+currently+study+on+SENAC+School+💻🗒️)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=850&size=30&duration=2500&pause=2000&color=FFF&center=true&vCenter=true&width=900&lines=I+have+18+years+old+🚀;Im+currently+study+on+SENAC+School+💻🗒️)](https://git.io/typing-svg)
 
-👨‍💻 I currently work as an intern at the Brigada Militar of Portão.  
+👨‍💻I currently work at the Bolzano tannery in São Leopoldo.  
 
-🧠 I'm learning JavaScript, Python, HTML, CSS, and React Native at Alura.  
+🧠 I'm learning JavaScript, HTML, CSS, and React Native at Alura.  
 
 👯‍♀️ I'm looking to collaborate on projects involving web and mobile development. I have strong teamwork skills.  
 
