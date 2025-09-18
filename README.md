@@ -7,8 +7,7 @@
 
 
 ## 🙋‍♂️ About Me
-
-- 👨‍💻 I currently work at **Bolzano Tannery**, São Leopoldo - RS, Brazil.  
+  
 - 📚 I'm studying **Web & Mobile Development** at **SENAC** and learning through **Alura**.  
 - 🚀 Currently learning **JavaScript, HTML, CSS**, and **React Native**.  
 - 🤝 I’m looking to collaborate on projects related to **web and mobile development**.  
