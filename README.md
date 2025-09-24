@@ -1,7 +1,7 @@
 <!-- HEADER -->
 <img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=Hi👋%20I'm%20Bernardo😁&fontSize=60&section=header"/>
 
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=850&size=30&duration=2500&pause=2000&color=FFF&center=true&vCenter=true&width=900&lines=I+'m+18+years+old+🚀;I+currently+study+on+SENAC+School+💻🗒️)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=850&size=30&duration=2500&pause=2000&color=FFF&center=true&vCenter=true&width=900&lines=I+'m+18+years+old+🚀;I'm+currently+study+on+SENAC+School+💻🗒️)](https://git.io/typing-svg)
   
 ---
 
