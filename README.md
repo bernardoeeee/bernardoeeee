@@ -51,10 +51,10 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
+<!-- <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bernardoeeee&show_icons=true&rank_icon=github&theme=codeSTACKr" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bernardoeeee&layout=compact&langs_count=7&theme=codeSTACKr"/>
-</p>
+</p> -->
 
 <p align="center">
   <img height="180em" src="https://nirzak-streak-stats.vercel.app/?user=bernardoeeee&theme=codeSTACKr&hide_border=false" />
