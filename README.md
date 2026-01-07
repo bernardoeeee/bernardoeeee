@@ -1,15 +1,17 @@
 <!-- HEADER -->
 <img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=Hi👋%20I'm%20Bernardo😁&fontSize=60&section=header"/>
 
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=850&size=30&duration=2500&pause=2000&color=FFF&center=true&vCenter=true&width=900&lines=I'm+18+years+old+🚀;I'm+currently+study+on+SENAC+School+💻🗒️)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=850&size=30&duration=2500&pause=2000&color=FFF&center=true&vCenter=true&width=900&lines=I'm+18+years+old+🚀;I+studied++at+SENAC+School+💻🗒️)](https://git.io/typing-svg)
   
 ---
 
 
 ## 🙋‍♂️ About Me
   
-- 📚 I'm studying **Web & Mobile Development** at **SENAC** and learning through **Alura**.  
-- 🚀 Currently learning **JavaScript, HTML, CSS**, and **React Native**.  
+- 📚 I studied **Web & Mobile Development** at **SENAC**.
+- 📚 I learned a lot at **Alura** and learning at **Oracle**.
+- 🚀 I have knowledge of **JavaScript, HTML, CSS**, and **React Native**.
+- 🚀 I'm learning **PL/SQL and Oracle APEX** at Oracle MyLearn.
 - 🤝 I’m looking to collaborate on projects related to **web and mobile development**.  
 - 💡 Always curious to learn more about **frameworks** and **best practices** in programming.  
 
