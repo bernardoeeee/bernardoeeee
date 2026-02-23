@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=850&size=30&duration=2500&pause=2000&color=FFF&center=true&vCenter=true&width=900&lines=Full+Stack+Developer+Specializing+in+Oracle+APEX;Focusing+on+Modern+Web+%26+Mobile+Solutions"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=850&size=30&duration=2500&pause=2000&color=FFF&center=true&vCenter=true&width=900&lines=Back-End+Developer+Specialist+|+Node.js+|+PL/SQL;Focusing+on+Modern+Web+%26+Mobile+Solutions"/>
   </a>
 </p>
   
@@ -32,22 +32,4 @@ I am a tech enthusiast and developer in constant evolution. With a technical bac
 
 <p align="center">
   <a href="https://bernardoeeee.github.io/portfolioBernardo/"><img src="https://img.shields.io/badge/Live_Portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/bernardo-varisco-fleck-aaa5b5272/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-</p>
-
----
-
-## 💻 Tech Stack
-
-<p align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PL/SQL-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</p>
-
----
+  <a href="https://www.linkedin.com/in/bernardo-varisco-fleck-aaa5b5272/"><img src="
