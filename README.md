@@ -79,6 +79,17 @@ I am a tech enthusiast and developer in constant evolution. With a technical bac
 </p>
 
 ---
+<p align="center">
+  <sub>💡 Always innovating • 🌱 Constantly learning • 🤝 Ready to collaborate</sub>
+</p>
+
+<p align="center">
+  <i>🎯 "The only way to do great work is to love what you do." - Steve Jobs</i>
+</p>
+
+<p align="center">
+  Made with ❤️ by <a href="https://github.com/bernardoeeee">Bernardo</a> • 2024-2026
+</p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
 
