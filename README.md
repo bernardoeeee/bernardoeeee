@@ -33,3 +33,4 @@ I am a tech enthusiast and developer in constant evolution. With a technical bac
 <p align="center">
   <a href="https://bernardoeeee.github.io/portfolioBernardo/"><img src="https://img.shields.io/badge/Live_Portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/bernardo-varisco-fleck-aaa5b5272/"><img src="
+ 
