@@ -10,7 +10,6 @@
   <img src="https://komarev.com/ghpvc/?username=bernardoeeee&label=Profile%20Views&color=6E40C9&style=flat-square" alt="Profile Views"/>
 </p>
 
----
 
 ## 🙋‍♂️ About Me
 
@@ -27,7 +26,6 @@ I am a tech enthusiast and developer in constant evolution. With a technical bac
 
 <br clear="right"/>
 
----
 
 ## 🛠️ Tech Stack
 
@@ -42,7 +40,6 @@ I am a tech enthusiast and developer in constant evolution. With a technical bac
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 </p>
 
----
 
 ## 📊 GitHub Stats
 
@@ -50,8 +47,6 @@ I am a tech enthusiast and developer in constant evolution. With a technical bac
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=bernardoeeee&theme=tokyonight&border_radius=10" alt="GitHub Streak"/>
 </p>
-
----
 
 ## 📬 Contact Me
 
@@ -70,7 +65,6 @@ I am a tech enthusiast and developer in constant evolution. With a technical bac
   </a>
 </p>
 
----
 <p align="center">
   <sub>💡 Always innovating • 🌱 Constantly learning • 🤝 Ready to collaborate</sub>
 </p>
