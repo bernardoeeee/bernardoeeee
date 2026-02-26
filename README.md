@@ -1,8 +1,8 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&customColorList=6,11,20&text=Hi%20👋%20I'm%20Bernardo!&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Back-End%20Developer%20|%20Node.js%20|%20PL/SQL&descAlignY=58&descAlign=50"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&customColorList=6,11,20&text=Hi%20I'm%20Bernardo!&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Back-End%20Developer%20|%20Node.js%20|%20PL/SQL&descAlignY=58&descAlign=50"/>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=850&size=28&duration=2500&pause=2000&color=6E40C9&center=true&vCenter=true&width=900&lines=Back-End+Developer+Specialist+%7C+Node.js+%7C+PL%2FSQL;Focusing+on+Modern+Web+%26+Mobile+Solutions;Clean+Code+Advocate+%7C+Oracle+APEX+Enthusiast"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=850&size=28&duration=2500&pause=2000&color=6E40C9&center=true&vCenter=true&width=900&lines=Back-End+Developer+%7C+Node.js+%7C+PL%2FSQL"/>
   </a>
 </p>
 
@@ -50,10 +50,10 @@ I am a tech enthusiast and developer in constant evolution. With a technical bac
 
 ## 📊 GitHub Stats
 
-<p align="center">
+<!-- <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bernardoeeee&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=10"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bernardoeeee&layout=compact&langs_count=8&theme=tokyonight&border_radius=10"/>
-</p>
+</p> -->
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=bernardoeeee&theme=tokyonight&border_radius=10" alt="GitHub Streak"/>
