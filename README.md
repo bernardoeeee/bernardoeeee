@@ -48,7 +48,7 @@ I am a tech enthusiast and developer in constant evolution. With a technical bac
   <img src="https://streak-stats.demolab.com/?user=bernardoeeee&theme=tokyonight&border_radius=10" alt="GitHub Streak"/>
 </p>
 
-![snake gif](https://github.com/bernardoeeee/bernardoeeee/blob/output/github-snake-dark.svg)
+![snake gif](https://raw.githubusercontent.com/bernardoeeee/bernardoeeee/output/github-snake-dark.svg)
 
 ## 📬 Contact Me
 
