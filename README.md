@@ -13,7 +13,7 @@
 
 ## 🙋‍♂️ About Me
 
-<img align="right" alt="Coding" width="380" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
+<img align="right" style="border-radius:10px;" alt="Coding" width="380" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
 
 I am a tech enthusiast and developer in constant evolution. With a technical background from **SENAC** and ongoing specialization through **Oracle MyLearn**, I focus on building efficient, scalable, and high-quality applications.
 
@@ -67,17 +67,6 @@ I am a tech enthusiast and developer in constant evolution. With a technical bac
   </a>
 </p>
 
-<p align="center">
-  <sub>💡 Always innovating • 🌱 Constantly learning • 🤝 Ready to collaborate</sub>
-</p>
-
-<p align="center">
-  <i>🎯 "The only way to do great work is to love what you do." - Steve Jobs</i>
-</p>
-
-<p align="center">
-  Made with ❤️ by <a href="https://github.com/bernardoeeee">Bernardo</a> • 2024-2026
-</p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
 
