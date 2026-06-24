@@ -1,51 +1,58 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&customColorList=6,11,20&text=Hi%20I'm%20Bernardo!&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Back-End%20Developer%20|%20Node.js%20|%20PL/SQL&descAlignY=58&descAlign=50"/>
-
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=850&size=28&duration=2500&pause=2000&color=6E40C9&center=true&vCenter=true&width=900&lines=Back-End+Developer+%7C+Node.js+%7C+PL%2FSQL"/>
-  </a>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&customColorList=6,11,20&text=Hi%20I'm%20Bernardo!&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20%7C%20Oracle%20APEX%20%7C%20PL%2FSQL%20%7C%20JavaScript&descAlignY=58&descAlign=50"/>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=bernardoeeee&label=Profile%20Views&color=6E40C9&style=flat-square" alt="Profile Views"/>
 </p>
 
-
 ## 🙋‍♂️ About Me
 
-<img align="right" style="border-radius:10px;" alt="Coding" width="380" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
+I'm a Systems Developer in training, currently working as an intern at **Beg Support**, where I build web solutions using **Oracle APEX**, **PL/SQL**, and **JavaScript** for clients across different industries.
 
-I am a tech enthusiast and developer in constant evolution. With a technical background from **SENAC** and ongoing specialization through **Oracle MyLearn**, I focus on building efficient, scalable, and high-quality applications.
+I hold a **Technical Degree in Programming** from SENAC RS, with a focus on front-end development and relational database modeling. Throughout this journey, I've built practical projects — including my personal portfolio with multilingual support and WhatsApp integration — and participated in hackathons that sharpened my teamwork and delivery-under-pressure skills.
 
-- 🎓 Graduated in **Web & Mobile Development** (SENAC).
-- ⚙️ Currently specializing in **PL/SQL and Oracle APEX** via Oracle MyLearn.
-- 📱 Hands-on experience with **JavaScript, React Native, and Node.js**.
-- 🚀 Committed to **Clean Code** and industry best practices.
-- 🤝 Open to collaborations on innovative **Web & Mobile** projects.
+- 💼 Currently interning at **Beg Support**
+- ⚙️ Working with **Oracle APEX**, **PL/SQL**, **SQL**, and **JavaScript**
+- 🎓 Technical Degree in Programming — **SENAC RS**
+- 🚀 Experience with hackathons and collaborative projects
 - 🌎 Based in **Brazil 🇧🇷**
-
-<br clear="right"/>
-
+- 🇬🇧 English: Intermediate/Advanced &nbsp;|&nbsp; 🇩🇪 German: Basic
 
 ## 🛠️ Tech Stack
+
+**Oracle**
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Oracle_APEX-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PL%2FSQL-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+</p>
+
+**JavaScript Ecosystem**
 
 <p align="center">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
   <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/PL%2FSQL-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+</p>
+
+**Tools**
+
+<p align="center">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 </p>
 
-
 ## 📊 GitHub Stats
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=bernardoeeee&show_icons=true&theme=tokyonight&border_radius=10" alt="GitHub Stats"/>
+</p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=bernardoeeee&theme=tokyonight&border_radius=10" alt="GitHub Streak"/>
+  &nbsp;
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bernardoeeee&hide=html&layout=compact&theme=tokyonight" alt="Top Languages"/>
+  </a>
 </p>
 
 ![snake gif](https://raw.githubusercontent.com/bernardoeeee/bernardoeeee/output/github-snake-dark.svg)
@@ -67,6 +74,4 @@ I am a tech enthusiast and developer in constant evolution. With a technical bac
   </a>
 </p>
 
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
-
