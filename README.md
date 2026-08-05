@@ -46,12 +46,12 @@ I hold a **Technical Degree in Programming** from SENAC RS, with a focus on fron
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=bernardoeeee&theme=tokyonight&border_radius=10" alt="GitHub Streak"/>
   &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api?username=bernardoeeee&show_icons=true&theme=tokyonight&border_radius=10" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=bernardoeeee&show_icons=true&theme=tokyonight&border_radius=10" alt="GitHub Stats"/>
 </p>
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bernardoeeee&hide=html&layout=compact&theme=tokyonight" alt="Top Languages"/>
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=bernardoeeee&hide=html&layout=compact&theme=tokyonight" alt="Top Languages"/>
   </a>
 </p>
 
