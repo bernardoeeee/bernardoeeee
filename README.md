@@ -41,19 +41,6 @@ I hold a **Technical Degree in Programming** from SENAC RS, with a focus on fron
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 </p>
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=bernardoeeee&theme=tokyonight&border_radius=10" alt="GitHub Streak"/>
-  &nbsp;
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=bernardoeeee&show_icons=true&theme=tokyonight&border_radius=10" alt="GitHub Stats"/>
-</p>
-
-<p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=bernardoeeee&hide=html&layout=compact&theme=tokyonight" alt="Top Languages"/>
-  </a>
-</p>
 
 ![snake gif](https://raw.githubusercontent.com/bernardoeeee/bernardoeeee/output/github-snake-dark.svg)
 
